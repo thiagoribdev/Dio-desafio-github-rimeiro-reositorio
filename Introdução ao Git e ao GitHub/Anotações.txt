@@ -1,0 +1,5 @@
+Link para download do Git: 
+https://git-scm.com/download/win
+
+O Git Bach e um terminal extendido ara otimizar o uso do Git. e tambem fazer versionamento de codigo.
+
