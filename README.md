@@ -1,2 +1,2 @@
-# Dio-desafio-github-rimeiro-reositorio
+# Dio-desafio-github-primeiro-repositorio
 Desafio de progeto sobre Git/Github
